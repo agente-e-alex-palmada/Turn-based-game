@@ -1,6 +1,7 @@
-"Library/ArtifactDB" 
-"Library/PackageCache/" 
-"Library/" 
-"Temp/" 
-"Logs/" 
-"UserSettings/" 
+Library/
+*Pro/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+UserSettings/
