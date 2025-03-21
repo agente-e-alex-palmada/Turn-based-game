@@ -5,3 +5,7 @@ obj/
 Packages/
 ProjectSettings/
 UserSettings/
+.vs/
+.vsconfig/
+.csproj
+.sln
