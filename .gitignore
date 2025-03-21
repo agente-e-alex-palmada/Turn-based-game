@@ -6,6 +6,6 @@ Packages/
 ProjectSettings/
 UserSettings/
 .vs/
-.vsconfig/
-.csproj
-.sln
+.vsconfig
+*.csproj
+*.sln
